@@ -28,7 +28,7 @@
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
     background: transparent;
-    font-size: 20px;
+    font-size: 40px;
     color: #fff;
     cursor: pointer;
     margin: 10px;
@@ -55,4 +55,15 @@ form input.equal {
 
 form input.operator {
     color: #33ffd8;
+}
+
+#submit{
+    display: none;
+}
+
+@media (max-width: 320px) {
+    .calculator form input{
+        width: 45px;
+        height: 55px;
+    }
 }
