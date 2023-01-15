@@ -3,7 +3,7 @@
 
 <strong>Calculadora</strong>
 
-Crie uma calculadora estilizada com css e ela deve fazer as 4 operações matemáticas:soma,subtração,multiplicação ou divisão
+Essa é uma calculadora estilizada com css e ela deve fazer as 4 operações matemáticas:soma,subtração,multiplicação ou divisão
 
 - Deve ser exibido botões numéricos de 0 a 9.deve ser exibido botões de operaçoes
 - Deve exibir o botão para adicionar uma virgula para operações decimais
