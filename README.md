@@ -5,6 +5,8 @@
 
 Essa é uma calculadora estilizada com css e ela deve fazer as 4 operações matemáticas:soma,subtração,multiplicação ou divisão
 
+LIVE: https://calculator-simple-sandy.vercel.app/
+
 ![Image Generation App](https://github.com/Amadeo-Frontend/calculator/blob/main/src/images/calculadora.png)
 
 - Deve ser exibido botões numéricos de 0 a 9.deve ser exibido botões de operaçoes
@@ -13,4 +15,4 @@ Essa é uma calculadora estilizada com css e ela deve fazer as 4 operações mat
 - O campo de texto deve responder aos cliques nos botões e ao digitar no teclado numérico.deve ser responsiva
 
 ##
-https://github.com/Amadeo-Frontend/calculator/blob/main/src/images/calculadora.png
+
