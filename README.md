@@ -1,7 +1,8 @@
 
-##
 
 <strong>Calculadora</strong>
+
+##
 
 Essa é uma calculadora estilizada com css e ela deve fazer as 4 operações matemáticas: soma, subtração, multiplicação ou divisão
 
